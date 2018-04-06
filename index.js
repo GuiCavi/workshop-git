@@ -14,6 +14,10 @@ module.exports = class Calculator{
 
 	divide(a,b){
 		return a/b;
+  }
+  
+	multiply(a,b) {
+		return a*b;
 	}
 
 	// implementar as outras funções aqui
